@@ -404,95 +404,72 @@ li.pontos{
 }
 #celulares1{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares2{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares3{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares4{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares5{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares6{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares7{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares8{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares9{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares10{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares11{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares12{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares13{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares14{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares15{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares16{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares17{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares18{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares19{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares20{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares21{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares22{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 #celulares23{
     padding-left: 50px;
-    margin-bottom: 10px;
 }
 a.zip{
     border-left: 1px solid black;
@@ -660,10 +637,6 @@ a.zip24{
 a.zip24:hover{
     text-decoration: underline;
 }
-a.zip25{
-    padding-left: 25px;
-    padding-right: 50px;
-}
 a.zip26{
     border-left: 1px solid black;
     border-right: 1px solid black;
@@ -672,10 +645,6 @@ a.zip26{
 }
 a.zip26:hover{
     text-decoration: underline;
-}
-a.zip27{
-    padding-left: 25px;
-    padding-right: 50px;
 }
 a.zip28{
     border-left: 1px solid black;
@@ -686,10 +655,6 @@ a.zip28{
 a.zip28:hover{
     text-decoration: underline;
 }
-a.zip29{
-    padding-left: 25px;
-    padding-right: 50px;
-}
 a.zip30{
     border-left: 1px solid black;
     border-right: 1px solid black;
@@ -698,10 +663,6 @@ a.zip30{
 }
 a.zip30:hover{
     text-decoration: underline;
-}
-a.zip31{
-    padding-left: 25px;
-    padding-right: 50px;
 }
 a.zip32{
     border-left: 1px solid black;
@@ -712,10 +673,6 @@ a.zip32{
 a.zip32:hover{
     text-decoration: underline;
 }
-a.zip33{
-    padding-left: 25px;
-    padding-right: 50px;
-}
 a.zip34{
     border-left: 1px solid black;
     border-right: 1px solid black;
@@ -724,10 +681,6 @@ a.zip34{
 }
 a.zip34:hover{
     text-decoration: underline;
-}
-a.zip35{
-    padding-left: 25px;
-    padding-right: 50px;
 }
 a.zip36{
     border-left: 1px solid black;
@@ -738,10 +691,6 @@ a.zip36{
 a.zip36:hover{
     text-decoration: underline;
 }
-a.zip37{
-    padding-left: 25px;
-    padding-right: 50px;
-}
 a.zip38{
     border-left: 1px solid black;
     border-right: 1px solid black;
@@ -750,10 +699,6 @@ a.zip38{
 }
 a.zip38:hover{
     text-decoration: underline;
-}
-a.zip39{
-    padding-left: 25px;
-    padding-right: 50px;
 }
 a.zip40{
     border-left: 1px solid black;
@@ -764,10 +709,6 @@ a.zip40{
 a.zip40:hover{
     text-decoration: underline;
 }
-a.zip41{
-    padding-left: 25px;
-    padding-right: 50px;
-}
 a.zip42{
     border-left: 1px solid black;
     border-right: 1px solid black;
@@ -777,10 +718,6 @@ a.zip42{
 a.zip42:hover{
     text-decoration: underline;
 }
-a.zip43{
-    padding-left: 25px;
-    padding-right: 50px;
-}
 a.zip44{
     border-left: 1px solid black;
     border-right: 1px solid black;
@@ -789,10 +726,6 @@ a.zip44{
 }
 a.zip44:hover{
     text-decoration: underline;
-}
-a.zip45{
-    padding-left: 25px;
-    padding-right: 50px;
 }
 
 
@@ -841,6 +774,9 @@ a.zip45{
     margin-bottom: 5px;
     box-shadow: 0 0px 15px #4f4f4f4d;
     font-size: 15px;
+}
+#aparelho41, #aparelho42, #aparelho43, #aparelho44, #aparelho45, #aparelho46, #aparelho47, #aparelho48, #aparelho49, #aparelho50, #aparelho51{
+    margin-bottom: 10px;
 }
 
 
@@ -917,7 +853,7 @@ a.zip45{
         margin-left: 40;
     }
 }
-@media screen and (max-width:767.5px){
+@media screen and (min-width:0px) and (max-width:767.5px){
     #spansin, #cubao, #cubao1{
         margin-top: 0;
     }
@@ -929,6 +865,13 @@ a.zip45{
     }
     a.zip, a.zip2, a.zip4, a.zip6, a.zip8, a.zip10, a.zip12, a.zip14, a.zip16, a.zip18, a.zip20, a.zip21, a.zip22, a.zip24, a.zip26, a.zip28, a.zip30, a.zip32, a.zip34, a.zip36, a.zip38, a.zip40, a.zip42, a.zip44{
         border: none;
+        padding: 0px;
+        margin: 0px;
+    }
+    #aparelho41, #aparelho42, #aparelho43, #aparelho44, #aparelho45, #aparelho46, #aparelho47, #aparelho48, #aparelho49, #aparelho50{
+        border-bottom: 1px solid;
+        margin-bottom: 10px;
+        padding-bottom: 10px;
     }
 }
 @media screen and (max-width:475.5px){

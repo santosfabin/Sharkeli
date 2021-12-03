@@ -64,6 +64,16 @@ function ligar_desligar(){
         document.querySelector(".zip40").style.borderColor = '#030303';
         document.querySelector(".zip42").style.borderColor = '#030303';
         document.querySelector(".zip44").style.borderColor = '#030303';
+        document.querySelector("#aparelho41").style.borderColor = '#030303';
+        document.querySelector("#aparelho42").style.borderColor = '#030303';
+        document.querySelector("#aparelho43").style.borderColor = '#030303';
+        document.querySelector("#aparelho44").style.borderColor = '#030303';
+        document.querySelector("#aparelho45").style.borderColor = '#030303';
+        document.querySelector("#aparelho46").style.borderColor = '#030303';
+        document.querySelector("#aparelho47").style.borderColor = '#030303';
+        document.querySelector("#aparelho48").style.borderColor = '#030303';
+        document.querySelector("#aparelho49").style.borderColor = '#030303';
+        document.querySelector("#aparelho50").style.borderColor = '#030303';
         
         document.getElementById("sharkel1").style.backgroundColor = '#FFFFFF';
         document.getElementById("sharkel2").style.backgroundColor = '#FFFFFF';
@@ -153,6 +163,16 @@ function ligar_desligar(){
         document.querySelector(".zip40").style.borderColor = '#F0F0F0';
         document.querySelector(".zip42").style.borderColor = '#F0F0F0';
         document.querySelector(".zip44").style.borderColor = '#F0F0F0';
+        document.querySelector("#aparelho41").style.borderColor = '#F0F0F0';
+        document.querySelector("#aparelho42").style.borderColor = '#F0F0F0';
+        document.querySelector("#aparelho43").style.borderColor = '#F0F0F0';
+        document.querySelector("#aparelho44").style.borderColor = '#F0F0F0';
+        document.querySelector("#aparelho45").style.borderColor = '#F0F0F0';
+        document.querySelector("#aparelho46").style.borderColor = '#F0F0F0';
+        document.querySelector("#aparelho47").style.borderColor = '#F0F0F0';
+        document.querySelector("#aparelho48").style.borderColor = '#F0F0F0';
+        document.querySelector("#aparelho49").style.borderColor = '#F0F0F0';
+        document.querySelector("#aparelho50").style.borderColor = '#F0F0F0';
 
         document.getElementById("sharkel1").style.backgroundColor = '#171717';
         document.getElementById("sharkel2").style.backgroundColor = '#171717';
@@ -289,6 +309,16 @@ function mudar_tema(){
         document.querySelector(".zip40").style.borderColor = '#030303';
         document.querySelector(".zip42").style.borderColor = '#030303';
         document.querySelector(".zip44").style.borderColor = '#030303';
+        document.querySelector("#aparelho41").style.borderColor = '#030303';
+        document.querySelector("#aparelho42").style.borderColor = '#030303';
+        document.querySelector("#aparelho43").style.borderColor = '#030303';
+        document.querySelector("#aparelho44").style.borderColor = '#030303';
+        document.querySelector("#aparelho45").style.borderColor = '#030303';
+        document.querySelector("#aparelho46").style.borderColor = '#030303';
+        document.querySelector("#aparelho47").style.borderColor = '#030303';
+        document.querySelector("#aparelho48").style.borderColor = '#030303';
+        document.querySelector("#aparelho49").style.borderColor = '#030303';
+        document.querySelector("#aparelho50").style.borderColor = '#030303';
         
        document.getElementById("sharkel1").style.backgroundColor = '#FFFFFF';
        document.getElementById("sharkel2").style.backgroundColor = '#FFFFFF';
@@ -382,6 +412,16 @@ function mudar_tema(){
         document.querySelector(".zip40").style.borderColor = '#F0F0F0';
         document.querySelector(".zip42").style.borderColor = '#F0F0F0';
         document.querySelector(".zip44").style.borderColor = '#F0F0F0';
+        document.querySelector("#aparelho41").style.borderColor = '#F0F0F0';
+        document.querySelector("#aparelho42").style.borderColor = '#F0F0F0';
+        document.querySelector("#aparelho43").style.borderColor = '#F0F0F0';
+        document.querySelector("#aparelho44").style.borderColor = '#F0F0F0';
+        document.querySelector("#aparelho45").style.borderColor = '#F0F0F0';
+        document.querySelector("#aparelho46").style.borderColor = '#F0F0F0';
+        document.querySelector("#aparelho47").style.borderColor = '#F0F0F0';
+        document.querySelector("#aparelho48").style.borderColor = '#F0F0F0';
+        document.querySelector("#aparelho49").style.borderColor = '#F0F0F0';
+        document.querySelector("#aparelho50").style.borderColor = '#F0F0F0';
 
         document.getElementById("sharkel1").style.backgroundColor = '#171717';
         document.getElementById("sharkel2").style.backgroundColor = '#171717';
