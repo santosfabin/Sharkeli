@@ -1,0 +1,272 @@
+*{
+    color: inherit;
+}
+body{
+    font-family: var(--font-princ);
+    font-size: 17px;
+    background-color: #F0F0F0;
+    margin: 0;
+    padding: 0;
+    color: #4f4f4f;
+    overflow-x: hidden;
+}
+#tudo{
+    padding-bottom: 100px;
+    border-bottom: 1px solid #F0F0F0;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+/*#outro_dentro{
+    padding-bottom: 100px;
+    border-bottom: 1px solid #F0F0F0;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+#quadradinho{
+    display: inline-flex;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    
+}
+.sharkeli{
+    font-size: 20px;
+}
+p{
+    text-align: center;
+    font-size: 16px;
+}
+*/
+#spansin{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: -30px;
+}
+#sharkel1{
+    box-shadow: 0 0 10px 10px rgba(91, 176, 255, 0.3);
+    margin: 20px;
+    padding: 0px;
+    width: 300px;
+    height: 350px;
+    border-radius: 30px;
+    text-align: center;
+    background-color: #fff;
+}
+#sharkel1:hover{
+    transition: transform .3s;
+    transform: scale(1.03);
+}
+#sharkel2{
+    box-shadow: 0 0 10px 10px rgba(0, 130, 255, 0.3);
+    margin: 20px;
+    padding: 0px;
+    width: 300px;
+    height: 350px;
+    border-radius: 30px;
+    text-align: center;
+    background-color: #fff;
+    transform: scale(1.1);
+}
+#sharkel2:hover{
+    transition: transform .3s;
+    transform: scale(1.13);
+}
+#sharkel3{
+    box-shadow: 0 0 10px 10px rgba(0, 255, 76, 0.3);
+    margin: 20px;
+    padding: 0px;
+    width: 300px;
+    height: 350px;
+    border-radius: 30px;
+    text-align: center;
+    background-color: #fff;
+}
+#sharkel3:hover{
+    transition: transform .3s;
+    transform: scale(1.03);
+}
+
+#isoseis{
+    margin-top: 40px;
+    height: 180px;
+    width: 180px;
+}
+#isosete{
+    font-size: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#isooito{
+    font-size: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+/*
+#sharkel4{
+    box-shadow: 0 0 10px 10px rgba(127, 127, 127, 0.1);
+    margin: 20px;
+    padding: 0px;
+    width: 200px;
+    height: 250px;
+    border-radius: 15px;
+    text-align: center;
+    background-color: #fff;
+}
+#sharkel4:hover{
+    transition: transform .3s;
+    transform: scale(1.1);
+}
+#sharkel5{
+    box-shadow: 0 0 10px 10px rgba(127, 127, 127, 0.1);
+    margin: 20px;
+    padding: 0px;
+    width: 200px;
+    height: 250px;
+    border-radius: 15px;
+    text-align: center;
+    background-color: #fff;
+}
+#sharkel5:hover{
+    transition: transform .3s;
+    transform: scale(1.1);
+}
+#sharkel6{
+    box-shadow: 0 0 10px 10px rgba(127, 127, 127, 0.1);
+    margin: 20px;
+    padding: 0px;
+    width: 200px;
+    height: 250px;
+    border-radius: 15px;
+    text-align: center;
+    background-color: #fff;
+}
+#sharkel6:hover{
+    transition: transform .3s;
+    transform: scale(1.1);
+}
+#sharkel7{
+    box-shadow: 0 0 10px 10px rgba(127, 127, 127, 0.1);
+    margin: 20px;
+    padding: 0px;
+    width: 200px;
+    height: 250px;
+    border-radius: 15px;
+    text-align: center;
+    background-color: #fff;
+}
+#sharkel7:hover{
+    transition: transform .3s;
+    transform: scale(1.1);
+}
+*/
+#fora{
+    display: inline-flex;
+    margin-top: 10px;
+    border-top: 1px solid;
+}
+/*
+#fora1{
+    display: inline-flex;
+    margin-top: 30px;
+    border-top: 1px solid;
+}
+*/
+#dentro_seis{
+    padding: 20px;
+}
+#dentro_seis0{
+    padding: 20px;
+    border-right: 1px solid;
+}
+/*
+#dentro_seis2{
+    padding: 10px;
+    border-right: 1px solid;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#dentro_seis3{
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#celular1{
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    display: inline-flex;
+    margin-top: 30px;
+    border-top: 1px solid;
+    font-size: 10px;
+}
+#compu{
+    margin-top: 45px;
+    height: 70px;
+    width: 120px;
+}
+#celular{
+    margin-top: 40px;
+    height: 75px;
+    width: 100px;
+}
+#compu_1{
+    font-size: 10px;
+}
+*/
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+#instalar{
+    margin-top: 5px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: var(--font-segun);
+}
+/*
+#instalar0{
+    margin-top: 15px;
+    font-size: 20px;
+}
+#instalar1{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: var(--font-segun);
+}
+#instalar22{
+    font-size: 11px;
+    font-weight: 0;
+    font-family: var(--font-princ);
+}
+*/
+
+
+
+
+
+#fim{
+    background-color: white;
+    width: 100%;
+    height: 400px;
+    margin: 0px;
+}
+
+
+@media screen and (max-width:992.5px){
+    #sharkel1, #sharkel2, #sharkel3{
+        margin-bottom: 70px;
+
+    }
+    
+}
+@media screen and (max-width:1199.5px){
+    #sharkel1, #sharkel2{
+        margin-bottom: 70px;
+    }
+}

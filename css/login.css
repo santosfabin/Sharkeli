@@ -1,0 +1,77 @@
+*{
+    font-style: none;
+    color: inherit;
+    font-family: var(--font-princ);
+}
+body{
+    font-family: var(--font-princ);
+    font-size: 23px;
+    background-color: #F0F0F0;
+    margin: 0;
+    padding: 0;
+    color: #4f4f4f;
+}
+#quadrado{
+    box-shadow: 0 0 10px 10px rgba(127, 127, 127, 0.1);
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #FFFFFF;
+    padding: 50px;
+    border-radius: 10px;
+}
+input{
+    margin-bottom: 30px;
+    outline: none;
+    background-color: rgba(255, 255, 255, 0);
+    border-style: none;
+    border: 1px solid #3D3D3D;
+    border-radius: 5px;
+
+}
+#user{
+    width: 250px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+}
+#passwd{
+    width: 250px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+}
+a{
+    font-weight: 0;
+    font-size: 15px;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+#login{
+    position: absolute;
+    left: 150px;
+    margin-left: 85px;
+    margin-top: -20px;
+    cursor: pointer;
+    font-size: 18px;
+    padding: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border: none;
+}
+#ajlo{
+    display: inline-block;
+    margin-top: 10px;
+}
+p{
+    margin: 0;
+}
+#login:hover{
+    transition: .2s;
+    border: 1px solid;
+}

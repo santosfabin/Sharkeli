@@ -1,0 +1,205 @@
+<html>
+    <head>
+        
+       <meta name="charset" content="utf-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="../css/index.css">
+        <link rel="stylesheet" type="text/css" href="../css/barra.css">
+        <link rel="stylesheet" type="text/css" href="../css/tututema.css">
+
+        <link rel="icon" href="../dagroins/tutu.png">
+
+        <link rel="stylesheet" type="text/css"  href="../bootstrap-5.1.3-dist/css/bootstrap-grid.min.css">
+        
+        <script src="../js/javaindex.js"></script>
+        <script src="../bootstrap-5.1.3-dist/js/jquery-3.6.0.min.js"></script>
+        <script src="../bootstrap-5.1.3-dist/js/bootstrap.min.js"></script>
+
+        <title>Página Inicial</title>
+
+        
+    </head>
+    <body onload="mudar_tema()">
+
+        <div id="barrademenu">
+                <ul id="menusinho">
+                    <li id="home"><a href="index.html"><img id="casa" src="../dagroins/home.png"></a></li>
+                    <li><a id="letra_login" href="login.html"><img id="tutu_login" src="../dagroins/login.png"></a></li>
+                    <li class="barrinha"></li>
+                    <li><a href="#">Principais</a></li>
+                    <li class="barrinha"></li>
+                    <li><a href="info.html">Informações</a></li>
+                          
+                </ul>
+        </div><br><br><br>
+        <div id="tema">
+            <label id="botao_tema">
+                <input type="image" id="botao_checar" src="../dagroins/whitetutu.png" onclick="ligar_desligar()">
+            </label>
+        </div>
+        <div id="tudo">
+            <div class="col-xs-10 container">
+                <div class="sharkeli">
+                    <div id="spansin">
+                        <span>Sharkeli</span>
+                    </div>
+                        <p>Sharkeli é uma distribuição linux baseada do Debian, ela apresenta as melhores ferramentas para segurança da informação.
+                        Estamos sempre atualizando, então assim que houver novas atualizações será disponibilizado imediatamente. Para a maioria dos usuários, é recomendado baixar nossa versão atual. 
+                        
+                        Abaixo temos nossa última versão para 64-bit e 32-bit, e nossa versão teste. 
+                        Para mais informação <a href="info.html">clique aqui</a>.</p><br>
+                </div>
+            </div>
+
+            <div id="quadradinho">
+                <div class="row">
+                    <div class="col-sm-12 col-xs-12 col-lg-6 col-xl-4 d-flex justify-content-center">
+                        <div id="sharkel1" class="container-fluid">
+                            <a href="#"><img id="isoseis" src="../dagroins/iso_seis_32.png"></a><br>
+                            <div id="instalar"><span>Instalar</span></div>
+                            <span>Vesão completa 32-bit</span>
+                            <div id="fora">
+                                <div id="dentro_seis0">
+                                    <a href="#" id="isosete">Download iso</a>
+                                </div>
+                                <div id="dentro_seis">
+                                    <a href="#" id="isooito">Download .zip</a>
+                                </div>
+                            </div>  
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-xs-12 col-lg-6 col-xl-4 d-flex justify-content-center">
+                        <div id="sharkel2">
+                            <a href="#"><img id="isoseis" src="../dagroins/iso_seis_64.png"></a><br>
+                            <div id="instalar"><span>Instalar</span></div>
+                            <span>Vesão completa 64-bit</span>
+                            <div id="fora">
+                                <div id="dentro_seis0">
+                                    <a href="#" id="isosete">Download iso</a>
+                                </div>
+                                <div id="dentro_seis">
+                                    <a href="#" id="isooito">Download .zip</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-xs-12 col-lg-12 col-xl-4 d-flex justify-content-center">
+                        <div id="sharkel3">
+                            <a href="#"><img id="isoseis" src="../dagroins/iso_seis.png"></a><br>
+                            <div id="instalar"><span>Instalar</span></div>
+                            <span>Vesão experimental</span>
+                            <div id="fora">
+                                <div id="dentro_seis0">
+                                    <a href="#" id="isosete">Download iso</a>
+                                </div>
+                                <div id="dentro_seis">
+                                    <a href="#" id="isooito">Download .zip</a>
+                                </div>
+                            </div> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+<!--
+        <div id="outras">
+            <div class="row">
+                <div class="container justify-content-center">
+                    <div id="spansin">
+                        <span>
+                            Todas as versões de Sharkeli para download
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div id="outro_dentro">
+                <div class="row">
+                    <div class="col-xs-6 col-sm-6 col-lg-4 col-xl-3 d-flex justify-content-center">
+                        <div id="sharkel4">
+                            <a href="#"><img id="compu" src="../dagroins/virtual.png"></a><br>
+                            <div id="instalar0">
+                                <span id="instalar1">Versão VM</span><br>
+                                <span id="instalar22">Ultima versão</span>
+                            </div>
+                            <div id="fora1">
+                                <div id="dentro_seis2">
+                                    <a href="#" id="compu_1">Versão 64-bit</a>
+                                </div>
+                                <div id="dentro_seis3">
+                                    <a href="#" id="compu_1">Versão 32-bit</a>
+                                </div>
+                            </div> 
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-lg-4 col-xl-3 d-flex justify-content-center">
+                        <div id="sharkel5">
+                            <a href="#"><img id="celular" src="../dagroins/celular.png"></a><br>
+                            <div id="instalar0">
+                                <span id="instalar1">Versão Android</span><br>
+                                <span id="instalar22">Ultima versão</span>
+                            </div>
+                            <div id="celular1">
+                                <a href="#">Sharkeli para android </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-lg-4 col-xl-3 d-flex justify-content-center">
+                        <div id="sharkel6">
+                            <a href="#"><img id="compu" src="../dagroins/virtual.png"></a><br>
+                            <div id="instalar0">
+                                <span id="instalar1">Versão VM</span><br>
+                                <span id="instalar22">Ultima versão</span>
+                            </div>
+                            <div id="fora1">
+                                <div id="dentro_seis2">
+                                    <a href="#" id="compu_1">Versão 64-bit</a>
+                                </div>
+                                <div id="dentro_seis3">
+                                    <a href="#" id="compu_1">Versão 32-bit</a>
+                                </div>
+                            </div> 
+                        </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-lg-12 col-xl-3 d-flex justify-content-center">
+                        <div id="sharkel7">
+                            <a href="#"><img id="compu" src="../dagroins/virtual.png"></a><br>
+                            <div id="instalar0">
+                                <span id="instalar1">Versão VM</span><br>
+                                <span id="instalar22">Ultima versão</span>
+                            </div>
+                            <div id="fora1">
+                                <div id="dentro_seis2">
+                                    <a href="#" id="compu_1">Versão 64-bit</a>
+                                </div>
+                                <div id="dentro_seis3">
+                                    <a href="#" id="compu_1">Versão 32-bit</a>
+                                </div>
+                            </div> 
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+-->
+        <div>
+            <div>
+                <img src="../dagroins/celular.png">
+            </div>
+            <div id="conteudo">
+                <span>
+                    Versão para celular
+                </span>
+            </div>
+          </div>
+
+
+
+
+
+        <div id="fim">
+
+        </div>
+    </body>
+</html>
