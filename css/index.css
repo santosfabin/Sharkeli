@@ -480,10 +480,6 @@ a.zip{
 a.zip:hover{
     text-decoration: underline;
 }
-a.zip1{
-    padding-left: 25px;
-    padding-right: 50px;
-}
 a.zip2{
     border-left: 1px solid black;
     border-right: 1px solid black;
@@ -492,10 +488,6 @@ a.zip2{
 }
 a.zip2:hover{
     text-decoration: underline;
-}
-a.zip3{
-    padding-left: 25px;
-    padding-right: 50px;
 }
 a.zip4{
     border-left: 1px solid black;
@@ -506,10 +498,6 @@ a.zip4{
 a.zip4:hover{
     text-decoration: underline;
 }
-a.zip5{
-    padding-left: 25px;
-    padding-right: 50px;
-}
 a.zip6{
     border-left: 1px solid black;
     border-right: 1px solid black;
@@ -518,10 +506,6 @@ a.zip6{
 }
 a.zip6:hover{
     text-decoration: underline;
-}
-a.zip7{
-    padding-left: 25px;
-    padding-right: 50px;
 }
 a.zip8{
     border-left: 1px solid black;
@@ -532,10 +516,6 @@ a.zip8{
 a.zip8:hover{
     text-decoration: underline;
 }
-a.zip9{
-    padding-left: 25px;
-    padding-right: 50px;
-}
 a.zip10{
     border-left: 1px solid black;
     border-right: 1px solid black;
@@ -544,10 +524,6 @@ a.zip10{
 }
 a.zip10:hover{
     text-decoration: underline;
-}
-a.zip11{
-    padding-left: 25px;
-    padding-right: 50px;
 }
 a.zip12{
     border-left: 1px solid black;
@@ -558,10 +534,6 @@ a.zip12{
 a.zip12:hover{
     text-decoration: underline;
 }
-a.zip13{
-    padding-left: 25px;
-    padding-right: 50px;
-}
 a.zip14{
     border-left: 1px solid black;
     border-right: 1px solid black;
@@ -571,11 +543,6 @@ a.zip14{
 a.zip14:hover{
     text-decoration: underline;
 }
-a.zip15{
-    padding-left: 25px;
-    padding-right: 50px;
-}
-
 a.zip16{
     border-left: 1px solid black;
     border-right: 1px solid black;
@@ -584,10 +551,6 @@ a.zip16{
 }
 a.zip16:hover{
     text-decoration: underline;
-}
-a.zip17{
-    padding-left: 25px;
-    padding-right: 50px;
 }
 a.zip18{
     border-left: 1px solid black;
@@ -598,10 +561,6 @@ a.zip18{
 a.zip18:hover{
     text-decoration: underline;
 }
-a.zip19{
-    padding-left: 25px;
-    padding-right: 50px;
-}
 a.zip20{
     border-left: 1px solid black;
     border-right: 1px solid black;
@@ -611,10 +570,6 @@ a.zip20{
 a.zip20:hover{
     text-decoration: underline;
 }
-a.zip21{
-    padding-left: 25px;
-    padding-right: 50px;
-}
 a.zip22{
     border-left: 1px solid black;
     border-right: 1px solid black;
@@ -623,10 +578,6 @@ a.zip22{
 }
 a.zip22:hover{
     text-decoration: underline;
-}
-a.zip23{
-    padding-left: 25px;
-    padding-right: 50px;
 }
 a.zip24{
     border-left: 1px solid black;
@@ -775,7 +726,7 @@ a.zip44:hover{
     box-shadow: 0 0px 15px #4f4f4f4d;
     font-size: 15px;
 }
-#aparelho41, #aparelho42, #aparelho43, #aparelho44, #aparelho45, #aparelho46, #aparelho47, #aparelho48, #aparelho49, #aparelho50, #aparelho51{
+#aparelho29, #aparelho30, #aparelho31, #aparelho32, #aparelho33, #aparelho34, #aparelho35, #aparelho37, #aparelho39, #aparelho41, #aparelho42, #aparelho43, #aparelho44, #aparelho45, #aparelho46, #aparelho47, #aparelho48, #aparelho49, #aparelho50, #aparelho51{
     margin-bottom: 10px;
 }
 
@@ -868,7 +819,7 @@ a.zip44:hover{
         padding: 0px;
         margin: 0px;
     }
-    #aparelho41, #aparelho42, #aparelho43, #aparelho44, #aparelho45, #aparelho46, #aparelho47, #aparelho48, #aparelho49, #aparelho50{
+    #aparelho29, #aparelho30, #aparelho31, #aparelho32, #aparelho33, #aparelho34, #aparelho35, #aparelho37, #aparelho39, #aparelho41, #aparelho42, #aparelho43, #aparelho44, #aparelho45, #aparelho46, #aparelho47, #aparelho48, #aparelho49, #aparelho50{
         border-bottom: 1px solid white;
         margin-bottom: 10px;
         padding-bottom: 10px;
