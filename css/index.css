@@ -357,9 +357,6 @@ a:hover{
     margin-left: 100px;
     width: 100px;
 }
-#celularin{
-    margin-right: 90px;
-}
 #cubao{
     text-align: left;
     font-size: 50px;
@@ -912,11 +909,9 @@ a.zip44:hover{
         padding-left: 58px;
         padding-right: 58px;
     }
-    #celular{
-        transform: scale(0.5);
-        justify-content: center;
-        margin: -100;
-        margin-top: -200;
+    #celularin{
+        width: 100px;
+        justify-content: end;
     }
 }
 @media screen and (max-width:360.5px){
