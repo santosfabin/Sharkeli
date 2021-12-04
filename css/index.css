@@ -813,6 +813,9 @@ a.zip44:hover{
     }
 }
 @media screen and (min-width:0px) and (max-width:767.5px){
+    #logo{
+        width: 200px;
+    }
     #spansin, #cubao, #cubao1{
         margin-top: 0;
     }
@@ -838,7 +841,7 @@ a.zip44:hover{
 }
 @media screen and (max-width:584.5px){
     #logo{
-        width: 250px;
+        width: 135px;
     }
     #fim{
         height: 600px;
