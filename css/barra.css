@@ -22,7 +22,7 @@
 }
 #home{
     float: left;
-    margin-left: 50px;
+    margin-left: 40px;
 }
 #casa{
     width: 85px;
@@ -30,7 +30,10 @@
     border: none;
 }
 #tutu_login{
-    width: 40px;
+    width: 43px;
+    height: 40px;
+}
+#tutu_info{
     height: 40px;
 }
 ul li a{
@@ -53,11 +56,4 @@ li{
 li a{
     font-size: 23px;
     padding: 10px;
-}
-.barrinha{
-    background-color: #CCCCCC;
-    padding-left: 1px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    margin-top: 0;
 }

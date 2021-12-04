@@ -31,7 +31,6 @@ function ligar_desligar(){
         document.getElementById("espessura0").style.color = '#030303';
         document.getElementById("espessura1").style.color = '#030303';
         document.getElementById("fim_link").style.color = '#030303';
-        document.getElementById("fim_link1").style.color = '#030303';
         
         document.getElementById("linha0").style.backgroundColor = '#ccc';
         document.getElementById("linha1").style.backgroundColor = '#ccc';
@@ -140,7 +139,6 @@ function ligar_desligar(){
         document.getElementById("espessura0").style.color = 'white';
         document.getElementById("espessura1").style.color = 'white';
         document.getElementById("fim_link").style.color = 'white';
-        document.getElementById("fim_link1").style.color = 'white';
         
         document.getElementById("linha0").style.backgroundColor = '#333';
         document.getElementById("linha1").style.backgroundColor = '#333';
@@ -296,7 +294,6 @@ function mudar_tema(){
         document.getElementById("espessura0").style.color = '#030303';
         document.getElementById("espessura1").style.color = '#030303';
         document.getElementById("fim_link").style.color = '#030303';
-        document.getElementById("fim_link1").style.color = '#030303';
         
         document.getElementById("linha0").style.backgroundColor = '#ccc';
         document.getElementById("linha1").style.backgroundColor = '#ccc';
@@ -409,7 +406,6 @@ function mudar_tema(){
         document.getElementById("espessura0").style.color = 'white';
         document.getElementById("espessura1").style.color = 'white';
         document.getElementById("fim_link").style.color = 'white';
-        document.getElementById("fim_link1").style.color = 'white';
         
         document.getElementById("linha0").style.backgroundColor = '#333';
         document.getElementById("linha1").style.backgroundColor = '#333';
