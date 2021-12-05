@@ -14,7 +14,6 @@ a{
 #tudo{
     position: relative;
     margin-top: -80px;
-    padding-bottom: 100px;
     margin-bottom: 100px;
     margin-left: 50px;
     margin-right: 50px;
@@ -50,6 +49,16 @@ a{
     margin-bottom: 0px;
     width: 100%;
 }
+#traco7{
+    margin-top: 80px;
+    margin-bottom: 50px;
+    width: 100%;
+}
+#traco8{
+    margin-top: 20px;
+    margin-bottom: 00px;
+    width: 100%;
+}
 #linha0{
     height: 1px;
     width: 100%;
@@ -81,7 +90,23 @@ a{
     width: 100%;
     background-color: #ccc;
 }
+#linha7{
+    height: 1px;
+    width: 100%;
+    background-color: #ccc;
+}
+#linha8{
+    height: 1px;
+    width: 100%;
+    background-color: #ccc;
+}
 #isosin{
+    margin-top: 40px;
+    margin-left: 100px;
+    width: 100px;
+    height: 100px;
+}
+#ferr{
     margin-top: 40px;
     margin-left: 100px;
     width: 100px;
@@ -92,6 +117,16 @@ a{
     font-size: 50px;
     font-weight: bold;
     margin-top: 60px;
+}
+#ferra{
+    text-align: left;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 60px;
+}
+#caixad{
+    margin-top: -20px;
+    margin-bottom: 50px;
 }
 #sharkel1{
     box-shadow: 0 0px 15px #4f4f4f4d;
@@ -299,6 +334,11 @@ a:hover{
     margin-left: 0;
     margin-top: 80px;
 }
+#documento3{
+    margin: 20px;
+    margin-left: 0;
+    margin-top: 50px;
+}
 #documentacao{
     text-decoration: none;
     color: white;
@@ -314,6 +354,14 @@ a:hover{
     color: white;
     font-size: 25px;
     margin-top: 20px;
+    margin-bottom: 20px;
+    transition: .2s;
+}
+#documentacao3{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    margin-top: 0px;
     margin-bottom: 20px;
     transition: .2s;
 }
@@ -336,6 +384,10 @@ a:hover{
     margin-bottom: 80px;
 }
 #versao1{
+    margin-top: 10px;
+    margin-bottom: 80px;
+}
+#versao2{
     margin-top: 10px;
     margin-bottom: 80px;
 }
@@ -369,6 +421,9 @@ a:hover{
     margin-top: 60px;
 }
 #campo_celular{
+    margin-bottom: 50px;
+}
+#ferramentas{
     margin-bottom: 50px;
 }
 #conteudo{
@@ -747,12 +802,12 @@ a.zip44:hover{
     width: 500px;
 }
 #teste{
-    margin-top: 500px;
+    margin-top: 50px;
 }
 
-
-
-
+#finao{
+    margin-bottom: 10px;
+}
 
 #final{
     padding-top: 100px;
@@ -770,19 +825,19 @@ a.zip44:hover{
 
 
 @media screen and (min-width:1400.5px){
-    #spansin, #cubao, #cubao1{
+    #spansin, #cubao, #cubao1, #ferra{
         position: relative;
         margin-left: -120;
     }
 }
 @media screen and (min-width:1200.5px) and (max-width:1400px){
-    #spansin, #cubao, #cubao1{
+    #spansin, #cubao, #cubao1, #ferra{
         position: relative;
         margin-left: -80;
     }
 }
 @media screen and (min-width:1024.5px) and (max-width:1200px){
-    #spansin, #cubao, #cubao1{
+    #spansin, #cubao, #cubao1, #ferra{
         position: relative;
         margin-left: -30;
     }
@@ -793,7 +848,7 @@ a.zip44:hover{
     }
 }
 @media screen and (min-width:767.5px) and (max-width:1024px){
-    #spansin, #cubao, #cubao1{
+    #spansin, #cubao, #cubao1, #ferra{
         position: relative;
         margin-left: 40;
     }
@@ -809,21 +864,24 @@ a.zip44:hover{
         margin-top: 30px;
     }
     #fim{
-        height: 800px;
+        height: 1000px;
     }
 }
 @media screen and (min-width:0px) and (max-width:767.5px){
     #logo{
         width: 200px;
     }
-    #spansin, #cubao, #cubao1{
+    #spansin, #cubao, #cubao1, #ferra{
         margin-top: 0;
     }
-    #isosin, #cubo, #SmartPhone{
+    #isosin, #cubo, #SmartPhone, #ferr{
         margin: 0;
     }
     #tudo{
         margin-top: -15px;
+    }
+    #fim{
+        height: 700px;
     }
     a.zip, a.zip2, a.zip4, a.zip6, a.zip8, a.zip10, a.zip12, a.zip14, a.zip16, a.zip18, a.zip20, a.zip21, a.zip22, a.zip24, a.zip26, a.zip28, a.zip30, a.zip32, a.zip34, a.zip36, a.zip38, a.zip40, a.zip42, a.zip44{
         border: none;
@@ -844,7 +902,7 @@ a.zip44:hover{
         width: 135px;
     }
     #fim{
-        height: 600px;
+        height: 630px;
     }
 }
 

@@ -11,6 +11,7 @@ function ligar_desligar(){
         document.getElementById("recomendado").style.color = 'white';
         
         document.getElementById("spansin").style.color = '#030303';
+        document.getElementById("ferra").style.color = '#030303';
         document.getElementById("cubao").style.color = '#030303';
         document.getElementById("cubao1").style.color = '#030303';
         document.getElementById("p_um").style.color = '#030303';
@@ -20,6 +21,7 @@ function ligar_desligar(){
         document.getElementById("documentacao").style.color = '#030303';
         document.getElementById("documentacao1").style.color = '#030303';
         document.getElementById("documentacao2").style.color = '#030303';
+        document.getElementById("documentacao3").style.color = '#030303';
         
         document.getElementById("OnePlus").style.color = '#030303';
         document.getElementById("Xiaomi").style.color = '#030303';
@@ -38,6 +40,8 @@ function ligar_desligar(){
         document.getElementById("linha4").style.backgroundColor = '#ccc';
         document.getElementById("linha5").style.backgroundColor = '#ccc';
         document.getElementById("linha6").style.backgroundColor = '#ccc';
+        document.getElementById("linha7").style.backgroundColor = '#ccc';
+        document.getElementById("linha8").style.backgroundColor = '#ccc';
 
         document.getElementById("tudo").style.borderColor = '#030303';
         document.querySelector(".zip").style.borderColor = '#030303';
@@ -119,6 +123,7 @@ function ligar_desligar(){
         document.getElementById("recomendado").style.color = 'white';
         
         document.getElementById("spansin").style.color = 'white';
+        document.getElementById("ferra").style.color = 'white';
         document.getElementById("cubao").style.color = 'white';
         document.getElementById("cubao1").style.color = 'white';
         document.getElementById("p_um").style.color = 'white';
@@ -128,6 +133,7 @@ function ligar_desligar(){
         document.getElementById("documentacao").style.color = 'white';
         document.getElementById("documentacao1").style.color = 'white';
         document.getElementById("documentacao2").style.color = 'white';
+        document.getElementById("documentacao3").style.color = 'white';
         
         document.getElementById("OnePlus").style.color = 'white';
         document.getElementById("Xiaomi").style.color = 'white';
@@ -146,6 +152,8 @@ function ligar_desligar(){
         document.getElementById("linha4").style.backgroundColor = '#333';
         document.getElementById("linha5").style.backgroundColor = '#333';
         document.getElementById("linha6").style.backgroundColor = '#333';
+        document.getElementById("linha7").style.backgroundColor = '#333';
+        document.getElementById("linha8").style.backgroundColor = '#333';
 
         document.getElementById("tudo").style.borderColor = '#F0F0F0';
         document.querySelector(".zip").style.borderColor = '#F0F0F0';
@@ -274,6 +282,7 @@ function mudar_tema(){
         document.getElementById("recomendado").style.color = 'white';
         
         document.getElementById("spansin").style.color = '#030303';
+        document.getElementById("ferra").style.color = '#030303';
         document.getElementById("cubao").style.color = '#030303';
         document.getElementById("cubao1").style.color = '#030303';
         document.getElementById("p_um").style.color = '#030303';
@@ -283,6 +292,7 @@ function mudar_tema(){
         document.getElementById("documentacao").style.color = '#030303';
         document.getElementById("documentacao1").style.color = '#030303';
         document.getElementById("documentacao2").style.color = '#030303';
+        document.getElementById("documentacao3").style.color = '#030303';
         
         document.getElementById("OnePlus").style.color = '#030303';
         document.getElementById("Xiaomi").style.color = '#030303';
@@ -301,6 +311,8 @@ function mudar_tema(){
         document.getElementById("linha4").style.backgroundColor = '#ccc';
         document.getElementById("linha5").style.backgroundColor = '#ccc';
         document.getElementById("linha6").style.backgroundColor = '#ccc';
+        document.getElementById("linha7").style.backgroundColor = '#ccc';
+        document.getElementById("linha8").style.backgroundColor = '#ccc';
 
         document.getElementById("tudo").style.borderColor = '#030303';
         document.querySelector(".zip").style.borderColor = '#030303';
@@ -386,6 +398,7 @@ function mudar_tema(){
         document.getElementById("recomendado").style.color = 'white';
 
         document.getElementById("spansin").style.color = 'white';
+        document.getElementById("ferra").style.color = 'white';
         document.getElementById("cubao").style.color = 'white';
         document.getElementById("cubao1").style.color = 'white';
         document.getElementById("p_um").style.color = 'white';
@@ -395,6 +408,7 @@ function mudar_tema(){
         document.getElementById("documentacao").style.color = 'white';
         document.getElementById("documentacao1").style.color = 'white';
         document.getElementById("documentacao2").style.color = 'white';
+        document.getElementById("documentacao3").style.color = 'white';
 
         document.getElementById("OnePlus").style.color = 'white';
         document.getElementById("Xiaomi").style.color = 'white';
@@ -413,6 +427,8 @@ function mudar_tema(){
         document.getElementById("linha4").style.backgroundColor = '#333';
         document.getElementById("linha5").style.backgroundColor = '#333';
         document.getElementById("linha6").style.backgroundColor = '#333';
+        document.getElementById("linha7").style.backgroundColor = '#333';
+        document.getElementById("linha8").style.backgroundColor = '#333';
 
         document.getElementById("tudo").style.borderColor = '#F0F0F0';
         document.querySelector(".zip").style.borderColor = '#F0F0F0';
